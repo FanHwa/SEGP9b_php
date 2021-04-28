@@ -6,7 +6,7 @@ This repository contains the PHP files for the CRUD operations used for the MOBI
 
 ## Block Diagram
 
-<img src="bd-crud-marked.png" alt="Block Diagram" width="200"/>
+<img src="bd-crud-marked.png" alt="Block Diagram" width="600"/>
 
 This is one of the three repositories of the medPal project.<br><br>
 Link to other repositories:<br>
