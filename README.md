@@ -10,5 +10,5 @@
 
 <p>This is one of the three repositories of the medPal project.</p>
 <p>Link to other repositories:</p>
-- Repository for Android Mobile Application: *https://github.com/agb2k/SEGP-9B*
-- Repository for PC Platform: *https://github.com/bulacke/SEGP9B-PC_Platform*
+- Repository for Android Mobile Application: https://github.com/agb2k/SEGP-9B    
+- Repository for PC Platform: https://github.com/bulacke/SEGP9B-PC_Platform
